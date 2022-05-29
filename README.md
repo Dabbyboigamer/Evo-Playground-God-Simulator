@@ -6,7 +6,7 @@ Repo for Evo Playground: God Simulator modding
 
 **I take it your here to learn how to mod! Don't worry, everything will be covered, even before the next update comes out!**
 
-**To get started, either go to the wiki or [click this link](https://www.blank.com)**
+**To get started, either go to the wiki or [click this link](https://github.com/Dabbyboigamer/Evo-Playground-God-Simulator/wiki)**
 
 ---
 # Sample Code (Weapon):
